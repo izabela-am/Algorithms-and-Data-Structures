@@ -1,8 +1,7 @@
 # Hash Table
-A Hash Table structure written in C
+A Hash Table written in C. I'm doing this to study for an upcoming _Algorithms and Data Structures III_ exam
 
-wil update this README with a lengthy explanation of how a Hash Table works. Am doing this to study for an upcoming Algorithms and Data Structures III exam
-
-The command: 
-cc src/main.c src/hash_table.c src/prime.c -o ht
-will produce an executable called ht which you can run.
+The command below will produce an executable called ht which you can run.
+```shell
+  gcc src/main.c src/hashtable.c src/prime.c -o ht
+```
